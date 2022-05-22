@@ -2,7 +2,7 @@
 
 <!--
 **JamieLouBrolund/JamieLouBrolund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <h1 align="center">Hi 👋, I'm Jamie Lou Brolund</h1>
 <h3 align="center">A passionate Full-stack Developer from Nashville, TN</h3>
 
