@@ -3,7 +3,7 @@
 <!--
 **JamieLouBrolund/JamieLouBrolund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![socialbanner1](https://user-images.githubusercontent.com/94914187/173636774-1a329780-484d-4dc0-af17-0cdca6d54098.png)
+![gitbanner1](https://user-images.githubusercontent.com/94914187/173669751-d18a824a-cb9a-4279-9229-f696f4242a3c.png)
 <!--<h1 align="center">Hi 👋, I'm Jamie Lou Brolund</h1>
 <h3 align="center">A passionate Full-stack Developer from Nashville, TN</h3> -->
 
