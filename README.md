@@ -3,10 +3,11 @@
 <!--
 **JamieLouBrolund/JamieLouBrolund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Jamie Lou Brolund</h1>
-<h3 align="center">A passionate Full-stack Developer from Nashville, TN</h3>
+![socialbanner1](https://user-images.githubusercontent.com/94914187/173636774-1a329780-484d-4dc0-af17-0cdca6d54098.png)
+<!--<h1 align="center">Hi 👋, I'm Jamie Lou Brolund</h1>
+<h3 align="center">A passionate Full-stack Developer from Nashville, TN</h3> -->
 
-<p align="center"> <a href="https://twitter.com/jamielou222" target="blank"><img src="https://img.shields.io/twitter/follow/jamielou222?logo=twitter&style=for-the-badge" alt="jamielou222" /></a> </p>
+<!--<p align="center"> <a href="https://twitter.com/jamielou222" target="blank"><img src="https://img.shields.io/twitter/follow/jamielou222?logo=twitter&style=for-the-badge" alt="jamielou222" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://jamieloubrolund.netlify.app/](https://jamieloubrolund.netlify.app/)
 
