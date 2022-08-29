@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **loubrolund@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/6epywNgHt](https://resume.io/r/6epywNgHt)
-
 - ⚡ Fun fact **I like to garden, hike, and write music**
 
 <h3 align="center">Connect with me:</h3>
